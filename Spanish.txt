@@ -1,0 +1,2 @@
+tx-1:Hola
+tx-2:Bienvenido
